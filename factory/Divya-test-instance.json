@@ -1,0 +1,9 @@
+{
+	"name": "Divya-test-instance",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "199e7d04-d08a-4524-bcba-a907a0a8fad8",
+		"tenantId": "6183925c-f516-4a45-889c-fe1160cf8aa7"
+	}
+}

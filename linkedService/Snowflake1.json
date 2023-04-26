@@ -1,0 +1,13 @@
+{
+	"name": "Snowflake1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "Snowflake",
+		"typeProperties": {
+			"authenticationType": "Basic",
+			"connectionString": "jdbc:snowflake://KD81611.ap-south-1.aws.snowflakecomputing.com/?user=divyadass12&db=DIVYA&warehouse=COMPUTE_WH&role=ACCOUNTADMIN",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDg1QTRFRUYxLTQ4RTQtNENDOC04NTEwLTUyNDkxMUZGN0I4RV8yNDg5MmRjNy0wY2VkLTQwM2ItYmY2NS0xNWY1YmUxNTZlYWYiDQp9"
+		}
+	}
+}
